@@ -1,0 +1,4 @@
+rich
+typer[all]
+requests
+pyyaml

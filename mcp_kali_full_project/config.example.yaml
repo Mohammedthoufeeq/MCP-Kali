@@ -1,0 +1,9 @@
+ai:
+  base_url: "http://192.168.56.1:11434"
+  api_path: "/api/generate"
+  api_key: ""
+  model_name: "llama3:latest"
+  timeout_seconds: 90
+
+general:
+  sessions_dir: "sessions"
