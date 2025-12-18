@@ -1,1 +1,1 @@
-"""Reporting utilities (Markdown reports)."""\n
+"""Reporting utilities (Markdown reports)."""
