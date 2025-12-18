@@ -1,1 +1,1 @@
-"""Core utilities: configuration, modes, sessions."""\n
+"""Core utilities: configuration, modes, sessions."""
