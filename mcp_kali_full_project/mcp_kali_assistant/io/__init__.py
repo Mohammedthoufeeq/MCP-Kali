@@ -1,1 +1,1 @@
-"""User interaction helpers (prompts, summaries)."""\n
+"""User interaction helpers (prompts, summaries)."""
