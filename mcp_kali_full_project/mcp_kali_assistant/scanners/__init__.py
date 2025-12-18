@@ -1,1 +1,1 @@
-"""Scanning utilities (reachability, Nmap)."""\n
+"""Scanning utilities (reachability, Nmap)."""
