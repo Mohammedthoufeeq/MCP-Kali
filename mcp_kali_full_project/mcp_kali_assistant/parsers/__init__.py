@@ -1,1 +1,1 @@
-"""Parsing utilities (e.g., Nmap XML)."""\n
+"""Parsing utilities (e.g., Nmap XML)."""
