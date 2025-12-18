@@ -1,1 +1,1 @@
-"""AI engine integration (client and strategy)."""\n
+"""AI engine integration (client and strategy)."""
